@@ -86,4 +86,5 @@ A collection of tools, scripts, and applications for Linux enthusiasts.
 - [June](https://www.pling.com/p/2284614/)
 - [Soon](https://www.pling.com/p/2284616/)
 - [Wraft](https://www.pling.com/p/2284617/)
+- [DayOne](https://www.pling.com/p/2284620/)
 

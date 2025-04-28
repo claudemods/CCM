@@ -1,6 +1,6 @@
-# Claudemods Projects
+# Claudemods Custom Tools
 
-A collection of open-source tools, scripts, and applications for Linux enthusiasts.
+A collection of tools, scripts, and applications for Linux enthusiasts.
 
 ## � Container Tools
 - [ACCU](https://github.com/claudemods/ACCU) - Advanced Container Creation Utility

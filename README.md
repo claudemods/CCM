@@ -76,6 +76,7 @@ A collection of tools, scripts, and applications for Linux enthusiasts.
 - [WhatsApp](https://www.pling.com/p/2195838)
 
 ## 🖱️ KDE Tools
+- [12menu](https://github.com/claudemods/12menu) - Custom KDE menu
 - [11menu](https://github.com/claudemods/11menu) - Custom KDE menu
 - [Dolphin as Root](https://github.com/claudemods/Dolphin-As-Root-Plasma-5-and-Plasma-6) - Root file manager integration
 - [KDE Store](https://www.pling.com/p/2195815)

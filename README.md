@@ -85,6 +85,8 @@ A collection of tools, scripts, and applications for Linux enthusiasts.
 - [OutKast](https://www.pling.com/p/2284874/)
 - [Rift](https://www.pling.com/p/2284610/)
 - [commandeer](https://www.pling.com/p/2284894/)
+- [Refractor](https://www.pling.com/p/2284909/)
+- [NightFires](https://www.pling.com/p/2284908/)
 - [Cyber](https://www.pling.com/p/2284871/)
 - [Fortune](https://www.pling.com/p/2284879/)
 - [Connect](https://www.pling.com/p/2284893/)

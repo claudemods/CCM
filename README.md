@@ -101,7 +101,7 @@ A collection of tools, scripts, and applications for Linux enthusiasts.
 - [Wraft](https://www.pling.com/p/2284617/)
 - [DayOne](https://www.pling.com/p/2284620/)
 
-[Download Qt6 The C++ App](https://github.com/claudemods/CCM/tree/main/Qt6C%2B%2BApp)
+[Download The Qt6 C++ App](https://github.com/claudemods/CCM/tree/main/Qt6C%2B%2BApp)
 
 ![Screenshot_20250429_214326](https://github.com/user-attachments/assets/8d474c12-b5fd-4f5e-b59c-189ccbc56066)
 

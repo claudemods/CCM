@@ -82,7 +82,13 @@ A collection of tools, scripts, and applications for Linux enthusiasts.
 - [KDE Store](https://www.pling.com/p/2195815)
 
 ## 🖼️ Wallpapers
+- [OutKast](https://www.pling.com/p/2284874/)
 - [Rift](https://www.pling.com/p/2284610/)
+- [commandeer](https://www.pling.com/p/2284894/)
+- [Cyber](https://www.pling.com/p/2284871/)
+- [Fotune](https://www.pling.com/p/2284879/)
+- [Connect](https://www.pling.com/p/2284893/)
+- [Nemisis](https://www.pling.com/p/2284885/)
 - [Escape](https://www.pling.com/p/2284618/)
 - [July](https://www.pling.com/p/2284615/)
 - [Today](https://www.pling.com/p/2284611/)

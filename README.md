@@ -100,6 +100,13 @@ A collection of tools, scripts, and applications for Linux enthusiasts.
 - [Soon](https://www.pling.com/p/2284616/)
 - [Wraft](https://www.pling.com/p/2284617/)
 - [DayOne](https://www.pling.com/p/2284620/)
+- [Heaven](https://www.pling.com/p/2285860/)
+- [Time](https://www.pling.com/p/2285862/)
+- [Summet](https://www.pling.com/p/2285863/)
+- [Expense](https://www.pling.com/p/2285865/)
+- [Lost](https://www.pling.com/p/2285866/)
+- [Found](https://www.pling.com/p/2285867/)
+- [Equalizer](https://www.pling.com/p/2285868/)
 
 [Download The Qt6 C++ App](https://github.com/claudemods/CCM/tree/main/Qt6C%2B%2BApp)
 

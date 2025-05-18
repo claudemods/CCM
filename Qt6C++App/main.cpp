@@ -254,6 +254,8 @@ private:
             {"Chrome OS Cloner", "https://github.com/claudemods/claudemods-chromeoscloner", "", "Cloning Tools"},
             {"Clone Linux System To Archives", "https://github.com/claudemods/CS2A", "", "Cloning Tools"},
             {"Plasma 6 Cloner", "https://github.com/claudemods/plasma6cloner", "", "Cloning Tools"},
+            {"Btrfs System Cloner", "https://github.com/claudemods/btrfssystemcloner", "", "Cloning Tools"},
+        
 
             // Installers
             {"Arch Installer (GUI, ext4)", "https://github.com/claudemods/ApexArchInstallerAppImage", "", "Installers"},
@@ -274,6 +276,7 @@ private:
             {"Kdenlive", "https://www.pling.com/p/2259804", "", "Multimedia"},
             {"Shotcut", "https://www.pling.com/p/2259392", "", "Multimedia"},
             {"Krita", "https://www.pling.com/p/2259793", "", "Multimedia"},
+            {"Netflix", "https://github.com/claudemods/NetflixAppimage", "", "Multimedia"},
 
             // AppImages - Graphics
             {"GIMP", "https://github.com/claudemods/GimpAppImage", "", "Graphics"},
